@@ -1,5 +1,7 @@
 # testeNeomind
 
+ O teste se encontra na Branch 'master'.
+
 Desafio de Lógica e Programação
 
 Objetivo: O objetivo desse desafio é demonstrar sua habilidade e conhecimento em lógica de programação. Assim saberemos como você pensa e como resolve problemas cotidianos.
